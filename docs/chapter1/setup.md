@@ -12,4 +12,4 @@ Skip to ste
 
 
 
-[Go to Contents](index.md)
+[Go to Contents](https://superspeeder.github.io/mcmodding114tutorial/)
