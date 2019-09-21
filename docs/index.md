@@ -2,4 +2,5 @@
 
 ## Contents
 
+### Chapter 1, The Basics
 * [Setup](chapter1/setup.html)
